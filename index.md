@@ -4,7 +4,7 @@ This is my home page! My name is Alexa Guerrero and I am  student at [Cal State 
 
 ## Computer Science Projects 
 
-My Github page is http://github.com/4lexaguerrero. 
+My Github page is [http://github.com/4lexaguerrero](http://github.com/4lexaguerrero). 
 
 ## CPSC 120
 
